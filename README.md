@@ -39,3 +39,9 @@ Alphabet: ![760x16 mono](https://github.com/rakenrowl7/yubikayfive/blob/main/760
 BigDigits: ![bigdigits mono](https://github.com/rakenrowl7/yubikayfive/blob/main/BigDigits%20mono%20bold.png)
 
 SmallDigits: ![84x8 mono](https://github.com/rakenrowl7/yubikayfive/blob/main/84x8%20mono%20bold.png)
+
+**[SperryPC](https://int10h.org/oldschool-pc-fonts/fontlist/?2#sperry)**
+
+Alphabet: ![](https://github.com/rakenrowl7/yubikayfive/blob/main/760x16%20sperrypc.png)
+
+SmallDigits: ![84x8](https://github.com/rakenrowl7/yubikayfive/blob/main/84x8%20sperrypc.png)

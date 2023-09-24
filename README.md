@@ -4,9 +4,9 @@ i made some uvk5 font face. compatible with https://github.com/amnemonic/Quanshe
 
 
 
-**UV-K5 Stock**
+**UV-K5 Stock **
 
-Alphabet: ![760x16 stock](https://github.com/rakenrowl7/yubikayfive/blob/main/760x16%20stock.png)
+Alphabet ![(Modern DOS 8x16)](https://notabug.org/HarvettFox96/ttf-moderndos): ![760x16 stock](https://github.com/rakenrowl7/yubikayfive/blob/main/760x16%20stock.png)
 
 BigDigits: ![bigdigits stock](https://github.com/rakenrowl7/yubikayfive/blob/main/bigdigits%20stock.png)
 
